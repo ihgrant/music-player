@@ -1,0 +1,21 @@
+{
+  "name": "music-player",
+  "version": "0.0.1",
+  "description": "a node-based music player for the desktop",
+  "main": "./html/index.html",
+  "dependencies": {
+    "express": "~4.1.1",
+    "findit": "^2.0.0",
+    "musicmetadata": "^0.4.4"
+  },
+  "devDependencies": {
+    "del": "^0.1.2",
+    "envify": "~1.2.0",
+    "gulp": "^3.8.7",
+    "gulp-concat": "^2.3.4",
+    "gulp-react": "^1.0.0",
+    "supervisor": "~0.6.0"
+  },
+  "author": "ihgrant",
+  "license": "MIT"
+}
